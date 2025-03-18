@@ -7,10 +7,7 @@
 ### 📊 **GitHub Stats & Contributions**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haswanth04&theme=tokyonight)  
 
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/haswanth04?label=Monthly%20Commits&color=brightgreen)  
-![Total Contributions](https://img.shields.io/github/contributions/haswanth04?label=Total%20Contributions&color=blueviolet)  
 
 ---
 

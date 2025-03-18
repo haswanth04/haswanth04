@@ -6,22 +6,22 @@
 
 ### 📊 **GitHub Stats & Contributions**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haswanth04&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haswanth04&theme=tokyonight)  
 
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/haswanth04?label=Commits%20this%20month&color=brightgreen)
-![Total Contributions](https://img.shields.io/github/contributions/haswanth04?label=Total%20Contributions&color=blueviolet)
+![Monthly Commits](https://img.shields.io/github/commit-activity/m/haswanth04?label=Monthly%20Commits&color=brightgreen)  
+![Total Contributions](https://img.shields.io/github/contributions/haswanth04?label=Total%20Contributions&color=blueviolet)  
 
 ---
 
 ### 🚀 **Recent Projects**
 
-- **SDP Project** - [View on GitHub](https://github.com/haswanth04/SDP)
-- **BG Changer** - [Live Demo](https://bg-changer-haswanth04s-projects.vercel.app/)
-- **Figma Prototype** - [View on GitHub](https://github.com/haswanth04/figma-prototype1)
-- **Simon Game** - [View on GitHub](https://github.com/haswanth04/Simon-game)
-- **Tic-Tac-Toe Game** - [View on GitHub](https://github.com/haswanth04/tictactoe-game)
-- **Dice Game** - [View on GitHub](https://github.com/haswanth04/dice-game)
+- **SDP Project** - [View on GitHub](https://github.com/haswanth04/SDP)  
+- **BG Changer** - [Live Demo](https://bg-changer-haswanth04s-projects.vercel.app/)  
+- **Figma Prototype** - [View on GitHub](https://github.com/haswanth04/figma-prototype1)  
+- **Simon Game** - [View on GitHub](https://github.com/haswanth04/Simon-game)  
+- **Tic-Tac-Toe Game** - [View on GitHub](https://github.com/haswanth04/tictactoe-game)  
+- **Dice Game** - [View on GitHub](https://github.com/haswanth04/dice-game)  
 
 **[View More Projects](https://github.com/haswanth04?tab=repositories)**
 
@@ -29,13 +29,21 @@
 
 ### 🛠 **Tech Stack**
 
-![Tech Stack](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,git,github,figma)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
 
 ---
 
 ### 🌍 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haswanth-chinni-48bb62266/)
-[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:haswanth.chinni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haswanth-chinni-48bb62266/)  
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:haswanth.chinni@gmail.com)  
 
 ---

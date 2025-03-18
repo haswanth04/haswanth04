@@ -8,11 +8,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true)  
 
-
 ---
 
 ### 🚀 **Recent Projects**
 
+- **QR Generator** - [View on GitHub](https://github.com/haswanth04/Qr-generator)  
 - **SDP Project** - [View on GitHub](https://github.com/haswanth04/SDP)  
 - **BG Changer** - [Live Demo](https://bg-changer-haswanth04s-projects.vercel.app/)  
 - **Figma Prototype** - [View on GitHub](https://github.com/haswanth04/figma-prototype1)  

@@ -12,6 +12,7 @@
 
 ### 🚀 **Recent Projects**
 
+- **Currency Exchange** - [Live Demo](https://currency-exchange-cyan.vercel.app/)  
 - **Password Generator** - [Live Demo](https://password-genrator-git-main-haswanth04s-projects.vercel.app/)  
 - **QR Generator** - [View on GitHub](https://github.com/haswanth04/Qr-generator)  
 - **SDP Project** - [View on GitHub](https://github.com/haswanth04/SDP)  
@@ -22,7 +23,6 @@
 - **Dice Game** - [Live Demo](https://haswanth04.github.io/dice-game)  
 
 **[View More Projects](https://github.com/haswanth04?tab=repositories)**
-
 ---
 
 ### 🛠 **Tech Stack**

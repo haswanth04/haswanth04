@@ -12,14 +12,14 @@
 
 ### 🚀 **Recent Projects**
 
-- **Password Generator** - [Live Demo](https://password-genrator-git-main-haswanth04s-projects.vercel.app/)
+- **Password Generator** - [Live Demo](https://password-genrator-git-main-haswanth04s-projects.vercel.app/)  
 - **QR Generator** - [View on GitHub](https://github.com/haswanth04/Qr-generator)  
 - **SDP Project** - [View on GitHub](https://github.com/haswanth04/SDP)  
 - **BG Changer** - [Live Demo](https://bg-changer-haswanth04s-projects.vercel.app/)  
-- **Figma Prototype** - [View on GitHub](https://github.com/haswanth04/figma-prototype1)  
-- **Simon Game** - [View on GitHub](https://github.com/haswanth04/Simon-game)  
-- **Tic-Tac-Toe Game** - [View on GitHub](https://github.com/haswanth04/tictactoe-game)  
-- **Dice Game** - [View on GitHub](https://github.com/haswanth04/dice-game)  
+- **Figma Prototype** - [Live Demo](https://haswanth04.github.io/figma-prototype1)  
+- **Simon Game** - [Live Demo](https://haswanth04.github.io/Simon-game)  
+- **Tic-Tac-Toe Game** - [Live Demo](https://haswanth04.github.io/tictactoe-game)  
+- **Dice Game** - [Live Demo](https://haswanth04.github.io/dice-game)  
 
 **[View More Projects](https://github.com/haswanth04?tab=repositories)**
 

@@ -6,7 +6,7 @@
 
 ### 📊 **GitHub Stats & Contributions**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)  
 
 ---
 
@@ -23,6 +23,7 @@
 - **Dice Game** - [Live Demo](https://haswanth04.github.io/dice-game)  
 
 **[View More Projects](https://github.com/haswanth04?tab=repositories)**
+
 ---
 
 ### 🛠 **Tech Stack**

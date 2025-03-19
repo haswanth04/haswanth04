@@ -1,48 +1,55 @@
-# Hi there, I'm Haswanth! 👋
+### ✨ Hello, I'm Haswanth!  
 
-### Passionate Web Developer | React | JavaScript Enthusiast 🚀
-
----
-
-### 📊 **GitHub Stats & Contributions**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Hello%2C+I'm+Haswanth!;Welcome+to+my+GitHub+Profile!;Passionate+Web+Developer;React+%7C+JavaScript+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing Animation" />
+</p>
 
 ---
 
-### 🚀 **Recent Projects**
+### 📊 GitHub Stats & Contributions  
 
-- **Currency Exchange** - [Live Demo](https://currency-exchange-cyan.vercel.app/)  
-- **Password Generator** - [Live Demo](https://password-genrator-git-main-haswanth04s-projects.vercel.app/)  
-- **QR Generator** - [View on GitHub](https://github.com/haswanth04/Qr-generator)  
-- **SDP Project** - [View on GitHub](https://github.com/haswanth04/SDP)  
-- **BG Changer** - [Live Demo](https://bg-changer-haswanth04s-projects.vercel.app/)  
-- **Figma Prototype** - [Live Demo](https://haswanth04.github.io/figma-prototype1)  
-- **Simon Game** - [Live Demo](https://haswanth04.github.io/Simon-game)  
-- **Tic-Tac-Toe Game** - [Live Demo](https://haswanth04.github.io/tictactoe-game)  
-- **Dice Game** - [Live Demo](https://haswanth04.github.io/dice-game)  
+<p align="center">
 
-**[View More Projects](https://github.com/haswanth04?tab=repositories)**
+  <img src="https://github-readme-stats.vercel.app/api?username=haswanth04&show_icons=true&theme=radical&count_private=true" width="48%" />
+</p>
 
 ---
 
-### 🛠 **Tech Stack**
+### 🚀 Recent Projects  
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+✅ **[Currency Exchange](https://currency-exchange-cyan.vercel.app/)**  
+✅ **[Password Generator](https://password-genrator-git-main-haswanth04s-projects.vercel.app/)**  
+✅ **[QR Generator](https://github.com/haswanth04/Qr-generator)**  
+✅ **[SDP Project](https://github.com/haswanth04/SDP)**  
+✅ **[BG Changer](https://bg-changer-haswanth04s-projects.vercel.app/)**  
+✅ **[Figma Prototype](https://haswanth04.github.io/figma-prototype1)**  
+✅ **[Simon Game](https://haswanth04.github.io/Simon-game)**  
+✅ **[Tic-Tac-Toe Game](https://haswanth04.github.io/tictactoe-game)**  
+✅ **[Dice Game](https://haswanth04.github.io/dice-game)**  
+
+🎯 **[View More Projects](https://github.com/haswanth04?tab=repositories)**  
+
+---
+
+### 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,git,github,figma" />
+</p>
 
 ---
 
-### 🌍 **Connect with Me**
+### 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haswanth-chinni-48bb62266/)  
-[![Email](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:haswanth.chinni@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/haswanth-chinni-48bb62266/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60px" />
+  </a>
+  <a href="mailto:haswanth.chinni@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60px" />
+  </a>
+</p>
 
 ---
+
+⭐ **Let's Build Something Amazing Together!** 🚀

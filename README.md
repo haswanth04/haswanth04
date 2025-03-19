@@ -12,6 +12,7 @@
 
 ### 🚀 **Recent Projects**
 
+- **Password Generator** - [Live Demo](https://password-genrator-git-main-haswanth04s-projects.vercel.app/)
 - **QR Generator** - [View on GitHub](https://github.com/haswanth04/Qr-generator)  
 - **SDP Project** - [View on GitHub](https://github.com/haswanth04/SDP)  
 - **BG Changer** - [Live Demo](https://bg-changer-haswanth04s-projects.vercel.app/)  
